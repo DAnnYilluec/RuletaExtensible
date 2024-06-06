@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link href="estilos.css" rel="stylesheet" type="text/css" media="all">
-    <link rel="icon" href="images/demo/logo.png">
+    <link rel="icon" href="angie.png">
     <script src="https://kit.fontawesome.com/801222a0d1.js" crossorigin="anonymous"></script>
 </head>
 <body id="top">
